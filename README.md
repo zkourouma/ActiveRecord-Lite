@@ -1,4 +1,4 @@
-# Active record and Rails skeleton
+# Active record skeleton
 
-"Source code" for various Rails and Active Record functions such as associations,
-DB searches, the controller base, and routers.
+"Source code" for various Active Record functions such as associations,
+DB searches/SQL objects, and parameters.
